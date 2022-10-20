@@ -34,4 +34,4 @@
         . . . . . 
         . . . . . 
         . . . . .
-        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="Z_Yx~evfqK8/BDr.Mk@L" x="493" y="145"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="variables_set" id="@r^0+jVxpw;0eC-wApM8"><field name="VAR" id="A:BE~ihtP~(mgeAktlJ]">index</field><value name="VALUE"><shadow type="math_number" id="KUsv#$.PZK/-NJ9Yd%:C"><field name="NUM">0</field></shadow></value></block></statement></block></xml>
